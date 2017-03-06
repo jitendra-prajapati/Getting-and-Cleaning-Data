@@ -1,5 +1,5 @@
 # Getting-and-Cleaning-Data
-The class project for [Getting and Cleaning Data](https://www.coursera.org/course/getdata) was to read in the ["Human Activity Recognition Using Smartphones" data set](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones), perform an analysis on the data set, and output a tidy data set.
+The class project for Getting and Cleaning Data  was to read in the ["Human Activity Recognition Using Smartphones" data set](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones), perform an analysis on the data set, and output a tidy data set.
 
 **Here are the steps that must be performed before running the R script:**
 
@@ -18,4 +18,3 @@ The class project for [Getting and Cleaning Data](https://www.coursera.org/cours
 
 **The output of the R script is a tidy data set, [tidy.csv](tidy.csv).**
 
-You can read more about the data and the analysis in the [code book](CodeBook.md).
