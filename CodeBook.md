@@ -2,10 +2,6 @@
 
 This code book will describe the data used in this project, as well as the processing required to create the resulting tidy data set.
 
-### Overview
-
-30 volunteers performed 6 different activities while wearing a smartphone. The smartphone captured various data about their movements.
-
 ### Explanation of each file
 
 * `features.txt`: Names of the 561 features.
